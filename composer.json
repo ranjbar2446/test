@@ -1,0 +1,12 @@
+{
+    "name": "ranjbar2446/test",
+    "require": {
+        "guzzlehttp/psr7": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Mohammad Ranjbar",
+            "email": "ranjbar2446@gmail.com"
+        }
+    ]
+}
